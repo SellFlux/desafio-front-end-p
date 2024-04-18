@@ -1,70 +1,31 @@
-# Getting Started with Create React App
+## Visão Geral
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Na SellFlux, estamos sempre em busca de talentos excepcionais que possam trazer novas ideias e inovações para nossa equipe. Se você é apaixonado por desenvolvimento frontend e adora superar desafios, temos uma oportunidade emocionante para você!
 
-## Available Scripts
+Para este desafio, queremos que você demonstre suas habilidades e criatividade ao desenvolver um componente de interface de usuário específico: um **Drawer Expansível**. Este componente deve ser inspirado no Drawer da biblioteca Material-UI, conhecido por sua eficiência e design intuitivo.
 
-In the project directory, you can run:
+## Requisitos do Desafio
 
-### `npm start`
+- **Estrutura Base**: Você deve iniciar o desenvolvimento utilizando a estrutura base do desafio já configurada em React. Isso permitirá que você se concentre na implementação do Drawer sem se preocupar com a configuração inicial do projeto.
+- **Drawer Expansível**: O objetivo é criar um Drawer que possa ser expandido e recolhido, oferecendo uma experiência de usuário suave e interativa. O Drawer deve ser capaz de conter menus, links, ou qualquer conteúdo que você acredite ser relevante para o contexto de uma aplicação web moderna.
+- **Inspiração no Material-UI**: Embora você não precise usar a biblioteca Material-UI diretamente, seu Drawer deve ser inspirado nos princípios de design e na funcionalidade do Drawer encontrado nessa biblioteca. Isso inclui animações suaves, uso eficiente do espaço e uma interface intuitiva.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Critérios de Avaliação
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **Qualidade do Código**: Esperamos um código limpo, organizado e que siga as melhores práticas de desenvolvimento em React.
+- **Commits**: Seus commits devem ser claros e concisos, refletindo cada etapa significativa do seu processo de desenvolvimento. A qualidade e a organização dos seus commits serão consideradas como parte da avaliação.
+- **Funcionalidade**: O Drawer deve funcionar conforme descrito, com uma experiência de usuário suave e sem bugs.
+- **Design e UX**: Embora a funcionalidade seja crucial, a aparência do Drawer e a experiência do usuário também são importantes. Seu componente deve não apenas funcionar bem, mas também ter uma boa aparência e ser fácil de usar.
 
-### `npm test`
+## Submissão
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Seu código deve ser submetido através de um repositório Git (por exemplo, GitHub, GitLab, Bitbucket). Certifique-se de que o repositório seja público ou nos forneça acesso para avaliação.
+- Inclua um README detalhado com instruções sobre como executar seu projeto e quaisquer outras notas que você considere importantes para os avaliadores.
 
-### `npm run build`
+## Prazo
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+O desafio deve ser concluído e submetido dentro de [inserir prazo aqui].
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Estamos ansiosos para ver o que você pode criar e como você aborda esse desafio! Boa sorte e divirta-se construindo algo incrível.
