@@ -32,5 +32,6 @@ O desafio deve ser concluído e submetido dentro de [inserir prazo aqui].
 
 Estamos ansiosos para ver o que você pode criar e como você aborda esse desafio! Boa sorte e divirta-se construindo algo incrível.
 
-![Drawer]([https://giphy.com/embed/NyC44vxd4TN9auQbMT](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTM0YnJmN3V6ZDc1ZDFiamdmZGxjdGl4aWxxNHdlNzFwbWQycDEwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NyC44vxd4TN9auQbMT/giphy.gif))
+![Drawer](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTM0YnJmN3V6ZDc1ZDFiamdmZGxjdGl4aWxxNHdlNzFwbWQycDEwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NyC44vxd4TN9auQbMT/giphy.gif)
+
 
