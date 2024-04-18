@@ -23,12 +23,12 @@ Para este desafio, queremos que você demonstre suas habilidades e criatividade 
 
 ## Submissão
 
-- Seu código deve ser submetido através de um repositório Git (por exemplo, GitHub, GitLab, Bitbucket). Certifique-se de que o repositório seja privado e de fornecer acesso para avaliação ao seguinte usuário: ![SellFlux](https://github.com/SellFlux)
+- Seu código deve ser submetido através de um repositório Git (por exemplo, GitHub, GitLab, Bitbucket). Certifique-se de que o repositório seja privado e de fornecer acesso para avaliação ao seguinte usuário: [SellFlux](https://github.com/SellFlux)
 - Inclua um README detalhado com instruções sobre como executar seu projeto e quaisquer outras notas que você considere importantes para os avaliadores.
 
 ## Prazo
 
-O desafio deve ser concluído e submetido dentro de [2 dias].
+O desafio deve ser concluído e submetido dentro de 2 dias.
 
 ---
 
