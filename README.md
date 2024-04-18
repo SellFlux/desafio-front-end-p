@@ -12,6 +12,8 @@ Para este desafio, queremos que você demonstre suas habilidades e criatividade 
 - **Drawer Expansível**: O objetivo é criar um Drawer que possa ser expandido e recolhido, oferecendo uma experiência de usuário suave e interativa. O Drawer deve ser capaz de conter menus, links, ou qualquer conteúdo que você acredite ser relevante para o contexto de uma aplicação web moderna.
 - **Inspiração no Material-UI**: Embora você não precise usar a biblioteca Material-UI diretamente, seu Drawer deve ser inspirado nos princípios de design e na funcionalidade do Drawer encontrado nessa biblioteca. Isso inclui animações suaves, uso eficiente do espaço e uma interface intuitiva.
 
+![Drawer](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTM0YnJmN3V6ZDc1ZDFiamdmZGxjdGl4aWxxNHdlNzFwbWQycDEwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NyC44vxd4TN9auQbMT/giphy.gif)
+
 ## Critérios de Avaliação
 
 - **Qualidade do Código**: Esperamos um código limpo, organizado e que siga as melhores práticas de desenvolvimento em React.
@@ -31,7 +33,3 @@ O desafio deve ser concluído e submetido dentro de [inserir prazo aqui].
 ---
 
 Estamos ansiosos para ver o que você pode criar e como você aborda esse desafio! Boa sorte e divirta-se construindo algo incrível.
-
-![Drawer](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTM0YnJmN3V6ZDc1ZDFiamdmZGxjdGl4aWxxNHdlNzFwbWQycDEwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NyC44vxd4TN9auQbMT/giphy.gif)
-
-
