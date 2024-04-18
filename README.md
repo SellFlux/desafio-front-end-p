@@ -31,3 +31,5 @@ O desafio deve ser concluído e submetido dentro de [inserir prazo aqui].
 ---
 
 Estamos ansiosos para ver o que você pode criar e como você aborda esse desafio! Boa sorte e divirta-se construindo algo incrível.
+
+![Drawer](https://giphy.com/embed/NyC44vxd4TN9auQbMT)
